@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ListView">
+        <attr name="listitem" format="integer"></attr>
+        <attr name="moreitem" format="integer"></attr>
+    </declare-styleable>
+</resources>
